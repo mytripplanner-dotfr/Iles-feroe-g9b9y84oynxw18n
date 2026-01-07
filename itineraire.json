@@ -1,0 +1,197 @@
+{
+  "pays": "Iles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Évasion Nordique aux Iles Féroé : Entre Fjords et Légendes",
+  "budget_total": "Environ 1200-1400 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "2h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur à Tórshavn",
+      "legende": "Atterrissage sur l'île de Vágar, récupération de votre véhicule et route vers la capitale, Tórshavn. Une première immersion tranquille dans l'ambiance féroïenne, entre maisons colorées et port animé.",
+      "lieu": "Vágar & Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à Vágar</strong>: Récupération de votre voiture de location à l'aéroport.",
+        "<strong>🚗 Route vers Tórshavn</strong>: Un trajet pittoresque d'environ 45 minutes.",
+        "<strong>🛏️ Installation et Balade</strong>: Check-in à votre hôtel, puis flânerie dans le quartier historique de Tinganes et le port de Tórshavn."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        },
+        {
+          "nom_recherche": "Tinganes, Tórshavn",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 62.0093, "lng": -6.7725 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conduite aux Féroé",
+          "texte": "La location de voiture est essentielle pour explorer les îles. Les routes sont bien entretenues, mais soyez attentif aux moutons qui peuvent traverser à tout moment."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Trésors Historiques et Villages Pittoresques",
+      "legende": "Découvrez l'histoire des Féroé à Kirkjubøur, puis laissez-vous charmer par la beauté isolée de Saksun et les vues imprenables de Tjørnuvík. Une journée riche en paysages et en sérénité.",
+      "lieu": "Streymoy",
+      "activites": [
+        "<strong>⛪ Visite de Kirkjubøur</strong>: Explorez le centre historique et culturel, avec ses maisons en tourbe et sa cathédrale inachevée.",
+        "<strong>🐑 Charme de Saksun</strong>: Détendez-vous dans ce village isolé, niché au fond d'un fjord, avec son lagon et ses toits en herbe.",
+        "<strong>🌊 Vue sur Risin & Kellingin à Tjørnuvík</strong>: Admirez les célèbres rochers des géants depuis la plage de sable noir de Tjørnuvík."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kirkjubøur, Streymoy",
+          "categorie": "Site historique",
+          "coords": { "lat": 61.9926, "lng": -6.7935 }
+        },
+        {
+          "nom_recherche": "Saksun, Streymoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.2560, "lng": -7.1810 }
+        },
+        {
+          "nom_recherche": "Tjørnuvík, Streymoy",
+          "categorie": "Village côtier",
+          "coords": { "lat": 62.2960, "lng": -7.1560 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Légende locale",
+          "texte": "Les rochers Risin et Kellingin sont deux géants qui, selon la légende, tentaient de tirer les îles Féroé vers l'Islande. Surpris par le soleil levant, ils furent transformés en pierre."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Fjords Profonds et Villages de Pêcheurs",
+      "legende": "Aventurez-vous sur l'île d'Eysturoy pour découvrir des paysages dramatiques, des villages pittoresques comme Gjógv et des vues panoramiques. Une journée pour se ressourcer au cœur d'une nature brute.",
+      "lieu": "Eysturoy",
+      "activites": [
+        "<strong>🏘️ Sérénité à Gjógv</strong>: Explorez ce charmant village connu pour son port naturel unique et ses maisons colorées. Profitez d'une balade douce le long des falaises.",
+        "<strong>⚽ Vue d'Eiði</strong>: Admirez le célèbre terrain de football d'Eiði, offrant une vue imprenable sur l'océan et les falaises environnantes.",
+        "<strong>🚗 Route panoramique</strong>: Profitez des routes sinueuses d'Eysturoy, offrant des panoramas à couper le souffle sur les fjords et les montagnes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gjógv, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.3370, "lng": -6.9420 }
+        },
+        {
+          "nom_recherche": "Eiði, Eysturoy",
+          "categorie": "Village",
+          "coords": { "lat": 62.2900, "lng": -7.1000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause Café",
+          "texte": "À Gjógv, le café Gjáargarður propose des pâtisseries locales et une vue apaisante sur le village et le port."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "✈️",
+      "titre": "Lac Flottant et Départ",
+      "legende": "Une dernière matinée pour admirer l'illusion d'optique du 'lac flottant' avant de rejoindre l'aéroport. Des souvenirs impérissables d'une nature grandiose et apaisante.",
+      "lieu": "Vágar & Départ",
+      "activites": [
+        "<strong>🚶‍♂️ Le 'Lac Flottant' (Sørvágsvatn)</strong>: Courte balade pour admirer la perspective unique du lac Sørvágsvatn, qui semble flotter au-dessus de l'océan.",
+        "<strong>💧 Chute de Bøsdalafossur</strong>: Profitez de la vue sur cette cascade qui se jette directement dans l'océan Atlantique, à proximité du lac.",
+        "<strong>✈️ Départ des Iles Féroé</strong>: Restitution de la voiture de location à l'aéroport de Vágar et vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sørvágsvatn, Vágar",
+          "categorie": "Lac",
+          "coords": { "lat": 62.0460, "lng": -7.2200 }
+        },
+        {
+          "nom_recherche": "Aéroport de Vágar, Sørvágur",
+          "categorie": "Aéroport",
+          "coords": { "lat": 62.0636, "lng": -7.2772 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Conseil Photo",
+          "texte": "Pour la meilleure perspective du 'lac flottant', suivez le sentier vers Trælanípa. La vue est spectaculaire et la marche est douce."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 355 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 200-280 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180-270 €/pers (base 3* partagé)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50-100 €/pers (musées, petites entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin-Juillet (jour le plus long)", "symbole": "🌅" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures estivales varient entre 10 et 15°C. Prévoyez des couches de vêtements, un imperméable et des chaussures de marche robustes.", "symbole": "🧥" },
+    { "titre": "La monnaie est la Couronne Féroïenne (DKK), liée à la Couronne Danoise. Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile.", "symbole": "💳" },
+    { "titre": "Un permis de conduire français est suffisant. La conduite est à droite. Les tunnels sous-marins sont payants (environ 100 DKK l'aller-retour).", "symbole": "🚗" },
+    { "titre": "Le réseau mobile est excellent. Le Wi-Fi est disponible dans la plupart des hébergements et cafés. Une eSIM locale peut être pratique.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🐑",
+      "titre": "Plus de moutons que d'habitants !",
+      "texte": "Aux Iles Féroé, les moutons sont plus nombreux que les humains ! On compte environ 80 000 moutons pour 54 000 habitants. Ils sont partout, même sur les routes, d'où l'importance de la prudence en voiture."
+    },
+    {
+      "symbole": "🗣️",
+      "titre": "Une langue unique",
+      "texte": "Le féroïen est l'une des langues les plus isolées du monde, descendant du vieux norrois. Il est si unique que même les autres Scandinaves ont du mal à le comprendre !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍖",
+      "titre": "Ræst Kjøt",
+      "description": "De l'agneau fermenté, une spécialité féroïenne au goût intense et unique, souvent servi avec des pommes de terre et des légumes racines. Une expérience culinaire audacieuse !"
+    },
+    {
+      "symbole": "🐟",
+      "titre": "Fiskakøka",
+      "description": "Des boulettes de poisson frites, généralement à base de cabillaud ou d'églefin, mélangées à des pommes de terre et des oignons. Un plat réconfortant et savoureux."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Rabarbaraterta",
+      "description": "Un gâteau à la rhubarbe, souvent servi avec de la crème fouettée. La rhubarbe pousse abondamment sur les îles et est très appréciée dans les desserts locaux."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2026-05-15/2026-05-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Location de voiture aux Féroé", "url": "https://www.rentals.fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-252000/Faroe%20Islands/T%C3%B3rshavn", "symbole": "🌤️" }
+  ]
+}
